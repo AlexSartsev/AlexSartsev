@@ -16,7 +16,7 @@ Projects
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=MySQL)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman)
-![XPath](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=XPath)
+![XPath](https://img.shields.io/badge/XPath-000000?style=for-the-badge&logo=XPath)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git)
 
 Follow me
