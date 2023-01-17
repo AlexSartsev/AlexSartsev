@@ -19,4 +19,8 @@ Projects
 ![XPath](https://img.shields.io/badge/XPath-000000?style=for-the-badge&logo=XPath)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git)
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/mr_sartsev)
+[![VK](https://img.shields.io/badge/VK-000000?style=for-the-badge&logo=VK)](https://vk.com/alex.sartsev)
+[![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-the-badge&logo=stepik)](https://stepik.org/users/474736354)
+[![GeekBrains](https://img.shields.io/badge/geekbrains-000000?style=for-the-badge&logo=geekbrains)](https://gb.ru/users/7654256)
