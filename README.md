@@ -1,9 +1,9 @@
 ![Header](https://github.com/AlexSartsev/AlexSartsev/blob/main/asserts/photo_2023-01-17_21-49-56.jpg)
 
 ## Инженер по тестированию ПО
-### [Моё резюме](https://drive.google.com/drive/my-drive)
+#### [My CV](https://drive.google.com/file/d/1Y2yjR6V00oTgsEYoX9twYn2_3YjlEy93/view?usp=sharing)
 
-Projects
+### Projects
 
 ### Languages and Tools
 ![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium)
