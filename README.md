@@ -1,7 +1,7 @@
 ![Header](https://github.com/AlexSartsev/AlexSartsev/blob/main/asserts/photo_2023-01-17_21-49-56.jpg)
 
 ## Инженер по тестированию ПО
-### [My CV](https://drive.google.com/file/d/1YQnGhg0NYfQQ6JGXKfYeCUrJCuPaJmIa/view?usp=sharing)
+### [My CV](https://drive.google.com/file/d/1yEZwsXEacredbAkMHF8QKimDn8TIuKDC/view?usp=sharing)
 
 ### Projects:
 * [Auto-Tests](https://github.com/AlexSartsev/automation_testing_selenium_python)
@@ -27,6 +27,7 @@
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman)
 ![XPath](https://img.shields.io/badge/XPath-000000?style=for-the-badge&logo=XPath)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git)
+![DevTools](https://img.shields.io/badge/DevTools-000000?style=for-the-badge&logo=chrome)
 
 ### Follow me:
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/mr_sartsev)
