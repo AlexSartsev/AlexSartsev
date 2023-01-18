@@ -9,7 +9,7 @@
 * [Postman](https://github.com/AlexSartsev/Postman)
 * [Test-cases](https://docs.google.com/spreadsheets/d/1WZ0y8eExyLZ_LoRlixVKaIa8yux7Zij8mTm3IMiCZ2E/edit?usp=sharing)
 * [Test-suite](https://docs.google.com/spreadsheets/d/14TAj31RnVZKyjB5ZbhNWMSjcqpLnYmNnVQ3PWsimOVY/edit?usp=sharing)
-* [Check-lists](https://docs.google.com/spreadsheets/d/1bcVJWtrFED0fyKT8wGOCVTm3Rtd5K61IlMfDSPJiGkI/edit?usp=sharing)
+* [Checklists](https://docs.google.com/spreadsheets/d/1bcVJWtrFED0fyKT8wGOCVTm3Rtd5K61IlMfDSPJiGkI/edit?usp=sharing)
 * [Projects python](https://github.com/AlexSartsev/python_mini_project)
 * [Landings pages](https://github.com/AlexSartsev/website_by_stepik)
 
