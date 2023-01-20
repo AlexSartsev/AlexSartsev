@@ -1,6 +1,6 @@
 ![Header](https://github.com/AlexSartsev/AlexSartsev/blob/main/asserts/photo_2023-01-17_21-49-56.jpg)
 
-## Инженер по тестированию ПО
+## QA engineer
 ### [My CV](https://drive.google.com/file/d/1yEZwsXEacredbAkMHF8QKimDn8TIuKDC/view?usp=sharing)
 
 ### Projects:
