@@ -1,7 +1,7 @@
 ![Header](https://github.com/AlexSartsev/AlexSartsev/blob/main/asserts/photo_2023-01-17_21-49-56.jpg)
 
 ## QA engineer
-### [My CV](https://drive.google.com/file/d/1yEZwsXEacredbAkMHF8QKimDn8TIuKDC/view?usp=sharing)
+### [My CV](https://drive.google.com/file/d/1JvsFqhFWquI37cSE_sRmimOGCR3DFTgS/view?usp=sharing)
 
 ### Projects:
 * [Auto-Tests](https://github.com/AlexSartsev/automation_testing_selenium_python)
