@@ -4,6 +4,7 @@
 ### [My CV](https://drive.google.com/file/d/1JvsFqhFWquI37cSE_sRmimOGCR3DFTgS/view?usp=sharing)
 
 ### Projects:
+* [Auto-Tests API](https://github.com/AlexSartsev/auto_tests_API)
 * [Auto-Tests](https://github.com/AlexSartsev/automation_testing_selenium_python)
 * [JMeter](https://github.com/AlexSartsev/JMeter)
 * [Postman](https://github.com/AlexSartsev/Postman)
