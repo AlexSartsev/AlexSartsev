@@ -35,5 +35,3 @@
 [![VK](https://img.shields.io/badge/VK-000000?style=for-the-badge&logo=VK)](https://vk.com/alex.sartsev)
 [![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-the-badge&logo=stepik)](https://stepik.org/users/474736354)
 [![GeekBrains](https://img.shields.io/badge/geekbrains-000000?style=for-the-badge&logo=geekbrains)](https://gb.ru/users/7654256)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSartsev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
